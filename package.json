@@ -82,7 +82,7 @@
         "babel-minify": "^0.5.1",
         "babel-plugin-add-module-exports": "^1.0.4",
         "babel-preset-minify": "^0.5.1",
-        "browserify": "^16.5.2",
+        "browserify": "^17.0.0",
         "cross-env": "^5.2.1",
         "mocha": "^6.2.3",
         "prettier": "^1.19.1",
